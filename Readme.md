@@ -36,11 +36,12 @@ I used Amazon Q to generate the game structure, core logic, and assets support â
 
 
 4. Screenshots
-
+Amazon Q auto create a code
 ![image](https://github.com/user-attachments/assets/0c72fb8c-d236-4376-8914-6154ae223c4a)
-
+Auto debug
 ![image](https://github.com/user-attachments/assets/62d4cc73-c0f9-4258-bbe9-9efdf34dc8f0)
 ![image](https://github.com/user-attachments/assets/6faf445d-093c-469a-9b30-2e39078c0e11)
+Playgameee.......
 ![image](https://github.com/user-attachments/assets/5cfe4a3e-fd22-4dcd-a09a-eb9eacbf7d6e)
 
 ![image](https://github.com/user-attachments/assets/0aa83160-92f7-475f-a80a-7fe7ee6e19e0)
@@ -59,3 +60,7 @@ Please create a polished and visually appealing version of the classic Pac-Man g
 - Optional support for sprites and sound effects
 - Modular, well-commented code using classes like Game, Pacman, Ghost, Map, etc.
 ```
+7. Technical Notes
+ - Built entirely in Python using the Pygame library
+ - Works well with or without external assets (auto fallback to colored shapes)
+ - Modular architecture: easy to read and extend
