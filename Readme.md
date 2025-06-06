@@ -21,3 +21,32 @@ I used Amazon Q to generate the game structure, core logic, and assets support �
 1. Install Python and Pygame:
    ```bash
    pip install pygame
+
+
+2. Clone this repo and run the main file:
+   ```bash
+   python pacman_game.py
+
+
+3. Controls:
+
+    Arrow Keys → Move Pac-Man
+
+    ESC → Quit the game
+
+
+4. Screenshots
+
+5. Prompt Used with Amazon Q
+Here is the exact prompt I used to generate the base version of this game with Amazon Q:
+```
+Please create a polished and visually appealing version of the classic Pac-Man game using Python and Pygame. The game should include:
+- A maze with walls, pellets, and power-ups
+- Player-controlled Pac-Man with smooth movement using arrow keys
+- Multiple ghosts with basic AI (chase, scatter)
+- Collision detection and scoring
+- Game over/win conditions
+- Attractive UI, even without external assets
+- Optional support for sprites and sound effects
+- Modular, well-commented code using classes like Game, Pacman, Ghost, Map, etc.
+```
