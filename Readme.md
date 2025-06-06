@@ -36,6 +36,7 @@ I used Amazon Q to generate the game structure, core logic, and assets support â
 
 
 4. Screenshots
+![image](https://github.com/user-attachments/assets/62d4cc73-c0f9-4258-bbe9-9efdf34dc8f0)
 
 5. Prompt Used with Amazon Q
 Here is the exact prompt I used to generate the base version of this game with Amazon Q:
