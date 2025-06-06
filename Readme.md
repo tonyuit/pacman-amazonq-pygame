@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16ddaad8-535f-4d6b-ae2e-92f68c118372)# 🟡 Pac-Man Clone – Built with Amazon Q + Pygame
+# 🟡 Pac-Man Clone – Built with Amazon Q + Pygame
 
 This is a modern, visually polished version of the classic **Pac-Man** game, built using **Amazon Q** and the **Pygame** library.  
 I used Amazon Q to generate the game structure, core logic, and assets support — then customized and refined it to make it smoother and more fun.
