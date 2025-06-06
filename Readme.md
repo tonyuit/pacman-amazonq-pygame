@@ -38,9 +38,12 @@ I used Amazon Q to generate the game structure, core logic, and assets support â
 4. Screenshots
 ![image](https://github.com/user-attachments/assets/62d4cc73-c0f9-4258-bbe9-9efdf34dc8f0)
 ![image](https://github.com/user-attachments/assets/6faf445d-093c-469a-9b30-2e39078c0e11)
-![image](https://github.com/user-attachments/assets/0aa83160-92f7-475f-a80a-7fe7ee6e19e0)
+![image](https://github.com/user-attachments/assets/5cfe4a3e-fd22-4dcd-a09a-eb9eacbf7d6e)
 
-5. Prompt Used with Amazon Q
+![image](https://github.com/user-attachments/assets/0aa83160-92f7-475f-a80a-7fe7ee6e19e0)
+![image](https://github.com/user-attachments/assets/51b5a83c-337e-4272-847c-a8d47efa7be8)
+
+6. Prompt Used with Amazon Q
 Here is the exact prompt I used to generate the base version of this game with Amazon Q:
 ```
 Please create a polished and visually appealing version of the classic Pac-Man game using Python and Pygame. The game should include:
